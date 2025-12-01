@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Station Easy",
+  "description": "Your guide to a seamless station experience. Navigate stations, find amenities, and get real-time assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
